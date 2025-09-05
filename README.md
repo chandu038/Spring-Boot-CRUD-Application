@@ -73,6 +73,6 @@ This project is a CRUD web service built with Spring Boot. It’s ideal for unde
 5. **License & Acknowledgements**
    - This project is open-source under the MIT License.
    - Inspired by best practices of Spring Boot MVC design and CRUD architecture.
-   **Happy coding! 🚀**
+   - **Happy coding! 🚀**
 
 
