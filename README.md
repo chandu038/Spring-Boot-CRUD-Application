@@ -56,3 +56,12 @@ This project is a CRUD web service built with Spring Boot. It’s ideal for unde
    ```bash
    git clone https://github.com/chandu038/Spring-Boot-CRUD-Application.git
    cd Spring-Boot-CRUD-Application
+   spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
+2. **Configure your database connection**
+   Update src/main/resources/application.properties:
+   spring.datasource.url=jdbc:mysql://localhost:3306/your_database_name
+  spring.datasource.username=your_db_username
+  spring.datasource.password=your_db_password
+  spring.jpa.hibernate.ddl-auto=update
+  spring.jpa.show-sql=true
+
