@@ -68,4 +68,11 @@ This project is a CRUD web service built with Spring Boot. It’s ideal for unde
    ```bash
    mvn clean install
    mvn spring-boot:run
+4. **Contributing**
+   - Contributions are welcome! Feel free to open issues or submit pull requests to add authentication, DTOs, frontend integration, testing, or more.
+5. **License & Acknowledgements**
+   - This project is open-source under the MIT License.
+   - Inspired by best practices of Spring Boot MVC design and CRUD architecture.
+   **Happy coding! 🚀**
+
 
